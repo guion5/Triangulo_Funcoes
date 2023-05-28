@@ -38,7 +38,7 @@ namespace Course
             //array que define o número de imputs
             double[] medidas = new double[3];
 
-            //interface de usuário para imputar as medias
+            //interface de usuário para imputar as medidas
             Console.WriteLine("Entre com as medidas do triângulo " + nomeTriangulo + ":");
             //condicional para os imputs das medidas do triangulo (3 lados)
             for (int i = 0; i < 3; i++)
