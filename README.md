@@ -4,7 +4,7 @@
 
 ## Tópicos
 🔹 Descrição do projeto 
-Programa que calcula a área dos triângulos e estabelece um comparativo entre eles, demonstrando qual possui a maior área
+Programa que calcula a área dos triângulos e estabelece um comparativo entre eles, demonstrando qual possui a maior área.
 
 🔹 Funcionalidades
 
@@ -39,8 +39,7 @@ Guilherme
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Programa de cálculo de área de triângulos utilizando classe, cada novo triângulo é atribuído à essa classe e suas variáveis.
-O usuário deve imputar as medidas de cada triângulo, o programa então calcula a área de cada um e printa na interface os valores de cada uma e mostra qual deles possui a maior área.
+Programa de cálculo de área de triângulos utilizando funções. O usuário deve imputar as medidas de cada triângulo, o programa então calcula a área de cada um e printa na interface os valores de cada uma e mostra qual deles possui a maior área.
 
 
 ## Funcionalidades ⚙️
